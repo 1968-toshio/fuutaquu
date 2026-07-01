@@ -24,24 +24,24 @@
     
     <div class="section">
         <div class="label">氏名 (Name)</div>
-        <div class="value">山田 太郎 (Taro Yamada)</div>
+        <div class="value">南谷 俊男 (Toshio Minamitani)</div>
     </div>
     
     <div class="section">
         <div class="label">緊急連絡先 (Emergency Contact)</div>
-        <div class="value">妻：山田 花子</div>
+        <div class="value">妻：南谷 真喜</div>
     </div>
 
-    <a href="tel:09012345678" class="btn-call">緊急連絡先に電話する</a>
+    <a href="tel:07028326992" class="btn-call">緊急連絡先に電話する</a>
     
     <div class="section" style="margin-top: 20px;">
         <div class="label">血液型 (Blood Type)</div>
-        <div class="value">A型 (Rh+)</div>
+        <div class="value">O型 (Rh+)</div>
     </div>
     
     <div class="section">
         <div class="label">かかりつけ医・持病 (Medical Memo)</div>
-        <div class="value">〇〇病院 / 降圧剤を服用中。アスピリンアレルギーあり。</div>
+        <div class="value">兵庫中央病院 / パーキンソン病　不整脈　パーキンソン病薬を服用中。</div>
     </div>
 </div>
 
